@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0mE:\Celebal Technologies\Celebal Projects\Databricks_Airflow_Integration\src\main\scala\com\engineerestate\Example_01.scala:3:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.sql.SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mE:\Celebal Technologies\Celebal Projects\Databricks_Airflow_Integration\src\main\scala\com\engineerestate\Example_01.scala:8:16: not found: type SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m    val spark: SparkSession = SparkSession.builder()[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0mE:\Celebal Technologies\Celebal Projects\Databricks_Airflow_Integration\src\main\scala\com\engineerestate\Example_01.scala:8:31: not found: value SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m    val spark: SparkSession = SparkSession.builder()[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
